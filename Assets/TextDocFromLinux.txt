@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This document was made on Linux
+=======
+This document was made on Linux
+
+Added some text at 13:44
+>>>>>>> main
