@@ -233,11 +233,7 @@ Halo:
   m_Enabled: 1
   m_Color:
     serializedVersion: 2
-<<<<<<< HEAD
-    rgba: 4283554091
-=======
-    rgba: 4292422452
->>>>>>> main
+   rgba: 4292422452
   m_Size: 5
 --- !u!65 &1073107038
 BoxCollider:
